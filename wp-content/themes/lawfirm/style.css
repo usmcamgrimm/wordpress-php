@@ -4,3 +4,7 @@ Author: Adrian Grimm
 Description: Sample Website for Tutorial
 Version: 1.0.0
 */
+body {
+  padding: 0;
+  margin: 0;
+}
